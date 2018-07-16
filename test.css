@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .container {
   height: 200px;
   background: green; }
@@ -19,3 +20,17 @@
       .phong img {
         height: 200px; } }
 >>>>>>> phong
+=======
+.hung h3 {
+  text-transform: uppercase; }
+.hung .duongke {
+  width: 100%;
+  height: 1px;
+  background: black; }
+.hung .card img:hover {
+  background: red; }
+.hung p small {
+  font-size: 15px; }
+
+/*# sourceMappingURL=test.css.map */
+>>>>>>> hung

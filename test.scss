@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 .container{
 	height: 200px;
 	background: green;
@@ -31,4 +32,30 @@
 p button{
 	background: yellow;
 >>>>>>> thang
+=======
+.hung{
+	h3{
+		text-transform: uppercase;
+		
+	}
+	.duongke{
+		width: 100%;
+		height: 1px;
+		background: black;
+	}
+	.card{
+			img{
+				
+
+			&:hover{
+				background: red;
+			}
+		}
+	}
+	p{
+		small{
+			font-size: 15px;
+		}
+	}
+>>>>>>> hung
 }
