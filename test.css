@@ -1,0 +1,9 @@
+.phong {
+  background: red;
+  height: 500px; }
+  .phong img {
+    width: 100%;
+    height: 500px; }
+    @media screen and (max-width: 767px) {
+      .phong img {
+        height: 200px; } }
