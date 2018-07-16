@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // <<<<<<< HEAD
 // <<<<<<< HEAD
 // <<<<<<< HEAD
@@ -59,4 +60,57 @@ p button{
 		}
 	}
 // >>>>>>> hung
+=======
+$width: 100%;
+.container{
+	background: gray;
+	height: auto;
+	.container-fluid{
+		height: 300px; 
+		background: gray;
+		.chu{
+			background: gray;
+			float: left;
+			width: 65%;
+			.chu1{
+				float: left;
+			background: gray;
+			height: auto;
+			ul{
+				background:gray;
+				text-align: center;
+				list-style-type: none;
+				h1{
+					color: white;
+					font-size: 22px;
+				}
+				p{
+					color:white;
+					font-size: 16px;
+				}
+			}
+		}
+	}
+	.hic{
+		margin-left:20px;
+		margin-top: 50px;
+		float: left;
+		width: 30%;
+		background: gray;
+
+		.ic{
+			padding-left:10px;
+			font-size: 60px;
+			.icc{
+				// background: white;
+			}
+		}
+		
+		p{
+			color:lightyellow;
+			text-align: center;
+		}
+	}
+	}
+>>>>>>> duy
 }
