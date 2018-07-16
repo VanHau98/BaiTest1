@@ -1,0 +1,17 @@
+.container{
+	height: 200px;
+	background: green;
+	.navbar{
+		// background: grey;
+		h4{
+			color: red;
+			text-transform: uppercase;
+			// margin-right: 40%;
+			float: left;
+		}
+		.nav-link{
+			color: white;
+		}
+
+	}
+}
