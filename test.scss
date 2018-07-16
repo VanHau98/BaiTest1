@@ -1,0 +1,25 @@
+.hung{
+	h3{
+		text-transform: uppercase;
+		
+	}
+	.duongke{
+		width: 100%;
+		height: 1px;
+		background: black;
+	}
+	.card{
+			img{
+				
+
+			&:hover{
+				background: red;
+			}
+		}
+	}
+	p{
+		small{
+			font-size: 15px;
+		}
+	}
+}
